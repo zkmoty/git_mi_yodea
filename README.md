@@ -9,3 +9,4 @@
   - example: git commit -m "my cmt msg regarding issue #42"
 - push your branch
 - pull request
+- done
