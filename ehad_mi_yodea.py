@@ -5,7 +5,7 @@ a - [
     "placeholder4",
     "placeholder5",
     "placeholder6",
-    "placeholder7",
+    "yemei shabta",
     "placeholder8",
     "yarchei leda",
     "placeholder10",
