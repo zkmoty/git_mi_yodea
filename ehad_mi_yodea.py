@@ -7,7 +7,7 @@ a - [
     "placeholder6",
     "placeholder7",
     "placeholder8",
-    "placeholder9",
+    "yarchei leda",
     "placeholder10",
     "kohvaya",
     "placeholder12",
