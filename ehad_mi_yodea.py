@@ -1,6 +1,6 @@
 a - [
     "placeholder1",
-    "placeholder2",
+    "luhot habrit",
     "placeholder3",
     "placeholder4",
     "placeholder5",
