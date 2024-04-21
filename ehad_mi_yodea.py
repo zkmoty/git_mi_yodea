@@ -6,7 +6,7 @@ a - [
     "placeholder5",
     "placeholder6",
     "yemei shabta",
-    "placeholder8",
+    "yemei mila",
     "yarchei leda",
     "placeholder10",
     "kohvaya",
