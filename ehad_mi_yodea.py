@@ -1,5 +1,5 @@
 a - [
-    "placeholder1",
+    "ehad eloheno eloheno shebashamayim uva'aretz",
     "placeholder2",
     "placeholder3",
     "placeholder4",
