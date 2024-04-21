@@ -9,7 +9,7 @@ a - [
     "placeholder8",
     "placeholder9",
     "placeholder10",
-    "placeholder11",
+    "kohvaya",
     "placeholder12",
     "placeholder13",
 ]
