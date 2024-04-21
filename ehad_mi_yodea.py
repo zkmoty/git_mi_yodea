@@ -1,34 +1,36 @@
-a - [
+ani_yodea = [
     "ehad eloheno eloheno shebashamayim uva'aretz",
-    "placeholder2",
-    "placeholder3",
-    "placeholder4",
-    "placeholder5",
-    "placeholder6",
+    'luhot habrit',
+    'avot',
+    'imahot',
+    'chumshei tora',
+    'sidrei mishna',
     "yemei shabta",
     "yemei mila",
     "yarchei leda",
-    "placeholder10",
+    "dibraya",
     "kohvaya",
-    "placeholder12",
+    "shivtaya",
     "midaya",
 ]
 
 
-def b(e):
-    def c(num):
-        print(num, a[num - 1])
-        if num > 1:
-            c(num - 1)
-    print(e, "mi yodea?")
-    print(e, "ani yodea!")
-    c(e)
+def mi_yodea(num):
+    print(num, ani_yodea[num - 1])
+    if num > 1:
+        mi_yodea(num - 1)
+
+
+def verse(num):
+    print(num, "mi yodea?")
+    print(num, "ani yodea!")
+    mi_yodea(num)
     print()
 
 
-def d():
+def sing():
     for i in range(1, 14):
-        b(i)
+        verse(i)
 
 
-d()
+sing()
