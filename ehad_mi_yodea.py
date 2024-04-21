@@ -9,17 +9,17 @@ a - [
     "placeholder8",
     "placeholder9",
     "placeholder10",
-    "kohvaya",
+    "placeholder11",
     "placeholder12",
     "placeholder13",
 ]
 
 
 def b(e):
-    def c(f):
-        print(f, a[f - 1])
-        if f > 1:
-            c(f - 1)
+    def c(num):
+        print(num, a[num - 1])
+        if num > 1:
+            c(num - 1)
     print(e, "mi yodea?")
     print(e, "ani yodea!")
     c(e)
